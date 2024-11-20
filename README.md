@@ -1,4 +1,4 @@
-#Repositorio de prueba1#
+#Repositorio de prueba1
 ##Eejemplo de repositorio en hithub
 Este es mi primer repositorio de *github*
 	`ls -la`
